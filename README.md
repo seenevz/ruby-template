@@ -1,4 +1,3 @@
-
 # SWBATs
 
 - [ ] Describe the project structure and the purpose of each file
@@ -7,7 +6,6 @@
 - [ ] Write a seeds.rb file to describe how a new database should be populated
 - [ ] Error handling
 - [ ] TTY
-
 
 Go over files
 
@@ -44,4 +42,3 @@ Wrapping Up
 
     Why are we teaching this? What is it important. Any previous examples of students setting up their project terribly and costing them a lot time?
     High level advice
-
